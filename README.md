@@ -1,7 +1,5 @@
 # Weather App
 Know the weather of your location!
-## Deployment
-Deployment Website:
 ## Built With
 * HTML
 * CSS
